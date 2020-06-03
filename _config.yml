@@ -4,4 +4,4 @@ plugins:
         - jekyll-sitemap
         - jekyll-redirect-from
         
-permalink: /:title:output_ext
+permalink: /:title/

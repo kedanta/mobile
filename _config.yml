@@ -1,0 +1,7 @@
+name: Kedanta
+
+plugins:
+        - jekyll-sitemap
+        - jekyll-redirect-from
+        
+permalink: /:title/

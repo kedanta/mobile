@@ -8819,6 +8819,7 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .picker__day--disabled:before {
+
   border-top-color: #aaaaaa;
 }
 

@@ -232,7 +232,7 @@ a.link-color:hover {
 	padding: 15px 0 11px;
 	box-shadow: 0 0 6px rgba(140, 132, 132, 0.41);
 	background-color: #fff;
-	position: fixed;
+
 	width: 100%;
 	top: 0;
 	left: 0;
@@ -265,9 +265,7 @@ a.link-color:hover {
 	text-align: right;
 }
 
-.navbar .row {
-	margin-bottom: 0;
-}
+
 
 /*sidebar*/
 .sidebar-panel .side-nav {
